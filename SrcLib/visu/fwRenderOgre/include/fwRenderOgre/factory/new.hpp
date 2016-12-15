@@ -29,6 +29,7 @@ template<class CLASSNAME > SPTR( CLASSNAME )  New();
 /**
  * @brief Key class used to restrict access to Object construction.
  * See http://www.drdobbs.com/184402053
+ * @class zizi
  */
 class Key
 {
